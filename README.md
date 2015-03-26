@@ -5,9 +5,9 @@ Integrate PostgreSQL Full Text Search to Rails Applications
 ## Installation
 
 Add this line to your application's Gemfile:
-
+n
 ```ruby
-gem 'cg_searchable', github: 'ngonzalez/cg_searchable'
+gem 'cg_searchable', github: 'codegenome/cg_searchable'
 ```
 
 And then execute:
@@ -41,7 +41,7 @@ Item.search "This is a test"
 
 ## Contributing
 
-1. Fork it ( https://github.com/ngonzalez/cg_searchable/fork )
+1. Fork it ( https://github.com/codegenome/cg_searchable/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
